@@ -1,7 +1,7 @@
 # threejs-instancing-images
 Visualizing images at scale in 3D space in the browser using an image atlas / sprite sheet and [Three.js](https://threejs.org/) instancing.
 
-Code / demo in [StackBlitz].
+**Code / demo in [StackBlitz](https://stackblitz.com/edit/sveltejs-kit-template-default-prhed9?file=README.md)**.
 
 Built using [SvelteKit](https://kit.svelte.dev/) and [Threlte](https://threlte.xyz/).
 
