@@ -8,5 +8,5 @@ Built using [SvelteKit](https://kit.svelte.dev/) and [Threlte](https://threlte.x
 Pokemon sprite images are taken from https://github.com/msikma/pokesprite.
 
 ## References
-- http://barradeau.com/blog/?p=1109
-- https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html
+- [Fluffy predator with THREE.js & instanced geometry, Nicolas Barradeau](http://barradeau.com/blog/?p=1109)
+- [Visualizing TSNE Maps with Three.js, Douglas Duhaime](https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html)
