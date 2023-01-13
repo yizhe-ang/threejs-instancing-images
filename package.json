@@ -20,5 +20,11 @@
 		"svelte": "^3.54.0",
 		"vite": "^4.0.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@threlte/core": "5.0.8",
+		"@threlte/extras": "4.9.3",
+		"@threlte/preprocess": "0.0.2",
+		"three": "^0.148.0"
+	}
 }
